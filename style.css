@@ -147,3 +147,38 @@ button {
 .opacity {
     opacity: 60%;
 }
+
+@media (max-width: 375px) {
+    .banner, .content {
+        width: 330px;
+    }
+
+    .content {
+        gap: 0px;
+        height: 520px;
+    }
+
+    .title, .description {
+        padding: 8px 30px;
+    }
+
+    .rowThree {
+        padding: 15px;
+    }
+
+    .rowFour {
+        gap: 10px;
+    }
+
+    .columnThree {
+        width: 5px;
+    }
+
+    button {
+        width: 270px;
+    }
+
+    .cancelButton {
+        margin-bottom: 10px;
+    }
+}
