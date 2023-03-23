@@ -3,7 +3,7 @@
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## 🔗 Link
-- [Live Version](https://barbaradamasdev.github.io/Order-summary-component/)
+- [Live Version](https://amazing-mousse-f24c9f.netlify.app/)
 
 ## 😄 Hello! 
 
