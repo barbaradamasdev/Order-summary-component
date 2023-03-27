@@ -26,6 +26,9 @@ body {
     height: 100vh;
     background-color: var(--desaturatedBlue);
     font-size: 16px;
+    background-image: url(images/BGwave.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .content {
